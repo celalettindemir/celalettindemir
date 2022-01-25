@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celalettindemir" alt="celalettindemir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/celalettindemir" target="blank"><img src="https://img.shields.io/twitter/follow/celalettindemir?logo=twitter&style=for-the-badge" alt="celalettindemir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/celal258" target="blank"><img src="https://img.shields.io/twitter/follow/celal258?logo=twitter&style=for-the-badge" alt="celalettindemir" /></a> </p>
 
 - 🌱 I’m currently learning **Golang, Vuejs**
 
