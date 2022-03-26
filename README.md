@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/celalettin-demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="celalettin-demir" height="30" width="40" /></a>
-<a href="https://twitter.com/celalettindemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="celalettindemir" height="30" width="40" /></a>
+<a href="https://twitter.com/celal258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="celalettindemir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/celalettindemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celalettindemir" height="30" width="40" /></a>
-<a href="https://fb.com/celalettindemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="celalettindemir" height="30" width="40" /></a>
-<a href="https://instagram.com/celalettindemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="celalettindemir" height="30" width="40" /></a>
+<a href="https://fb.com/celal258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="celalettindemir" height="30" width="40" /></a>
+<a href="https://instagram.com/celal258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="celalettindemir" height="30" width="40" /></a>
 <a href="https://medium.com/@celalettindemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@celalettindemir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/celalettindemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="celalettindemir" height="30" width="40" /></a>
 </p>
