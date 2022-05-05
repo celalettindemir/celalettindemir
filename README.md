@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **me**
 
-- 📫 How to reach me **celal258@gmail.com**
+- 📫 How to reach me **info@celalettindemir.dev**
 
 - ⚡ Fun fact **I think I am fun**
 
